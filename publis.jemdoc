@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{publis.html}, nofooter
+= Publications
+
+Please find below my list of publications, organized by topics. See also my [\/https://scholar.google.com/citations?user=0a1gD0IAAAAJ&hl=fr&oi=ao Google Scholar].
+
+
+== Kernel Methods and Sketching
+
+- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (Submitted)\n
+  Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
+
+- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (Submitted)\n
+  Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
